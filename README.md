@@ -1,4 +1,4 @@
 JavaCode
 ========
 
-This repo has java code.
+This repo has Java code.
